@@ -1,0 +1,11 @@
+D:\Documentos\Repositorio\IDNDev\VS\ConsoleAppDbFirst\ConsoleAppDbFirst\bin\Debug\netcoreapp2.2\ConsoleAppDbFirst.deps.json
+D:\Documentos\Repositorio\IDNDev\VS\ConsoleAppDbFirst\ConsoleAppDbFirst\bin\Debug\netcoreapp2.2\ConsoleAppDbFirst.runtimeconfig.json
+D:\Documentos\Repositorio\IDNDev\VS\ConsoleAppDbFirst\ConsoleAppDbFirst\bin\Debug\netcoreapp2.2\ConsoleAppDbFirst.runtimeconfig.dev.json
+D:\Documentos\Repositorio\IDNDev\VS\ConsoleAppDbFirst\ConsoleAppDbFirst\bin\Debug\netcoreapp2.2\ConsoleAppDbFirst.dll
+D:\Documentos\Repositorio\IDNDev\VS\ConsoleAppDbFirst\ConsoleAppDbFirst\obj\Debug\netcoreapp2.2\ConsoleAppDbFirst.csproj.CoreCompileInputs.cache
+D:\Documentos\Repositorio\IDNDev\VS\ConsoleAppDbFirst\ConsoleAppDbFirst\obj\Debug\netcoreapp2.2\ConsoleAppDbFirst.AssemblyInfoInputs.cache
+D:\Documentos\Repositorio\IDNDev\VS\ConsoleAppDbFirst\ConsoleAppDbFirst\obj\Debug\netcoreapp2.2\ConsoleAppDbFirst.AssemblyInfo.cs
+D:\Documentos\Repositorio\IDNDev\VS\ConsoleAppDbFirst\ConsoleAppDbFirst\obj\Debug\netcoreapp2.2\ConsoleAppDbFirst.csprojAssemblyReference.cache
+D:\Documentos\Repositorio\IDNDev\VS\ConsoleAppDbFirst\ConsoleAppDbFirst\bin\Debug\netcoreapp2.2\ConsoleAppDbFirst.pdb
+D:\Documentos\Repositorio\IDNDev\VS\ConsoleAppDbFirst\ConsoleAppDbFirst\obj\Debug\netcoreapp2.2\ConsoleAppDbFirst.dll
+D:\Documentos\Repositorio\IDNDev\VS\ConsoleAppDbFirst\ConsoleAppDbFirst\obj\Debug\netcoreapp2.2\ConsoleAppDbFirst.pdb
